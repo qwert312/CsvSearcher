@@ -6,9 +6,9 @@
 
 # Использованные технологии
 
-* IntelliJ IDEA 2024.1.6
-* JDK 11
-* Jackson 2.13.4.2
+* IntelliJ IDEA
+* Java 11
+* Jackson
 
 # Установка и использование
 
