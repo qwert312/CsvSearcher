@@ -8,6 +8,7 @@
 
 * IntelliJ IDEA
 * Java 11
+* Maven
 * Jackson
 
 # Установка и использование
